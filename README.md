@@ -25,7 +25,7 @@ The following KPIs were analysed:
 ---
 
 ## Data Preparation
-Data was strucutred and prepared in Microsoft Excel to ensure consistency across seasons. 
+Data was structured and prepared in Microsoft Excel to ensure consistency across seasons. 
 
 Calculated fields included: 
 
@@ -38,7 +38,7 @@ Only Premier League matches were included to maintain comparability across seaso
 
 **Note:**
 
-2025/26 season data refelcts results up to April 2026 and will update as the season progresses.
+2025/26 season data reflects results up to April 2026 and will update as the season progresses.
 
 ---
 
